@@ -12,7 +12,7 @@
 
 - 📄 Know about me [[https://drive.google.com/file/d/1KKvs9M0ctlvf2v0aDojFFVLsyBnOp7B7/view?usp=sharing]](https://drive.google.com/file/d/1qm2VIPI7rmHT-JS1asFPj2WiXqqcdMQW/view?usp=sharing)
 
-- 📄My Portfolio [https://pavan-ambulkar-portfolio.vercel.app/]
+- 📄 My Portfolio [https://pavan-ambulkar-portfolio.vercel.app/]
  
 
 <h3 align="left">Connect with me:</h3>
