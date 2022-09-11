@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **pavanambulkar2@gmail.com**
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/1KKvs9M0ctlvf2v0aDojFFVLsyBnOp7B7/view?usp=sharing]](https://drive.google.com/file/d/1qm2VIPI7rmHT-JS1asFPj2WiXqqcdMQW/view?usp=sharing)
+- 📄 Know about me [[https://drive.google.com/file/d/1KKvs9M0ctlvf2v0aDojFFVLsyBnOp7B7/view?usp=sharing]](https://drive.google.com/file/d/1qm2VIPI7rmHT-JS1asFPj2WiXqqcdMQW/view?usp=sharing)
  
 
 <h3 align="left">Connect with me:</h3>
