@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **pavanambulkar2@gmail.com**
 
-- 📄 Know about me : **https://drive.google.com/file/d/1KKvs9M0ctlvf2v0aDojFFVLsyBnOp7B7/view?usp=sharing**
+- 📄 Know about me : **https://drive.google.com/file/d/1pEhJGbk8y4AR-K2qI5qWPPO_BICRBd1S/view?usp=sharing**
 
 - 📄 My Portfolio : **https://pavan-ambulkar-portfolio.vercel.app/**
  
